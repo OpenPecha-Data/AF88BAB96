@@ -1,0 +1,28 @@
+id: AF88BAB96
+title: 'Beautiful String of Jewels: A Heart Advice'
+type: translation
+pechas:
+- I7EE66F55
+- I22C32DB4
+- I954411B4
+- I5DA3F79F
+- I7A9E084E
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:04:40.623603
+  last_modified_at: 2023-01-04 12:04:40.623611
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I7EE66F55/04FA: 4B48
+  I22C32DB4/8E19: 4B48
+  I954411B4/958E: 4B48
+  I5DA3F79F/55B1: 4B48
+  I7A9E084E/4003: 4B48
